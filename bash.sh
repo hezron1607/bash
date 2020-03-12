@@ -1,1 +1,1 @@
-echo "<h1><marquee> IDN Mantabs </marquee></h1>" > index.html
+echo "<h1><marquee> IDN Mantabs ver.2 </marquee></h1>" > index.html
